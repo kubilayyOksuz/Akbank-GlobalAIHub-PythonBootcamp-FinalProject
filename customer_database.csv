@@ -1,0 +1,5 @@
+TC Kimlik No,İsim,Soyisim,Pizza Seçimi,Ekstra Malzeme,Kredi Kartı No,Kredi Kartı Tarih,Kredi Kartı CVC,Sipariş Tarihi
+12312312311,Kubilay Yasin,Öksüz,Klasik,"['Soğan', 'Pepperoni']",1234567890123456,02/21,123,13-03-2023 14:32:17
+45645645451,Deneme,Test,Sade,"['Mantar', 'Sucuk']",7564736473633526,12/21,120,13-03-2023 15:03:10
+12345678911,Mehmet,Toprak,Türk,[],8989787867675656,10/36,656,13-03-2023 15:04:42
+98798798665,Serdar,Avcı,Klasik,"['Sosis', 'Biber']",4534987612349253,09/27,123,13-03-2023 15:07:43
