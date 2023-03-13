@@ -1,4 +1,4 @@
-# Akbank-GlobalAIHub-PyyhonBootcamp-FinalProject
+# Akbank-GlobalAIHub-PythonBootcamp-FinalProject
 Akbank ve Global AI Hub ortaklığı ile yapılan Python Bootcamp'inin final projesidir.
 
 # Proje Adımları
